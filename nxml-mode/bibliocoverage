@@ -1,0 +1,6 @@
+#name : bibliocoverage
+#key : bibliocoverage
+# --
+<bibliocoverage>
+  $1
+</bibliocoverage>$0

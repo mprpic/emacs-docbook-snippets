@@ -1,0 +1,4 @@
+#name : modifier
+#key : modifier
+# --
+<modifier>$1</modifier>$0

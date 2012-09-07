@@ -1,0 +1,6 @@
+#name : lot
+#key : lot
+# --
+<lot>
+  $1
+</lot>$0

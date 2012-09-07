@@ -1,0 +1,4 @@
+#name : menuchoice
+#key : menuchoice
+# --
+<menuchoice>$1</menuchoice>$0

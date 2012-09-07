@@ -1,0 +1,4 @@
+#name : mathphrase
+#key : mathphrase
+# --
+<mathphrase>$1</mathphrase>$0

@@ -1,0 +1,6 @@
+#name : tocpart
+#key : tocpart
+# --
+<tocpart>
+  $1
+</tocpart>$0

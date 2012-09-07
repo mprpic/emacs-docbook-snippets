@@ -1,0 +1,4 @@
+#name : tocback
+#key : tocback
+# --
+<tocback linkend="$1">$2</tocback>$0

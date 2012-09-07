@@ -1,0 +1,6 @@
+#name : footnote
+#key : footnote
+# --
+<footnote>
+  $1
+</footnote>$0

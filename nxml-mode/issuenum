@@ -1,0 +1,4 @@
+#name : issuenum
+#key : issuenum
+# --
+<issuenum>$1</issuenum>$0

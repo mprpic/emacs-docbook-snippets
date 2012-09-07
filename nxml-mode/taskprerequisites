@@ -1,0 +1,6 @@
+#name : taskprerequisites
+#key : taskprerequisites
+# --
+<taskprerequisites>
+  $1
+</taskprerequisites>$0

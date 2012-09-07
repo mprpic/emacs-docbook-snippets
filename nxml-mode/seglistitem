@@ -1,0 +1,6 @@
+#name : seglistitem
+#key : seglistitem
+# --
+<seglistitem>
+  $1
+</seglistitem>$0

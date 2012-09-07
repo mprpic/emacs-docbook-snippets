@@ -1,0 +1,4 @@
+#name : application
+#key : app
+# --
+<application>$1</application>$0

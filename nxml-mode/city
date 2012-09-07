@@ -1,0 +1,4 @@
+#name : city
+#key : city
+# --
+<city>$1</city>$0

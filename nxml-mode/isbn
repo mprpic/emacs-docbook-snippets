@@ -1,0 +1,4 @@
+#name : isbn
+#key : isbn
+# --
+<isbn>$1</isbn>$0

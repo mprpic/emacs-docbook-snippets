@@ -1,0 +1,6 @@
+#name : partinfo
+#key : partinfo
+# --
+<partinfo>
+  $1
+</partinfo>$0

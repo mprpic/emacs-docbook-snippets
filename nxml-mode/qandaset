@@ -1,0 +1,6 @@
+#name : qandaset
+#key : qandaset
+# --
+<qandaset>
+  $1
+</qandaset>$0

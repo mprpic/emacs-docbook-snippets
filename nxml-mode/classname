@@ -1,0 +1,4 @@
+#name : classname
+#key : classname
+# --
+<classname>$1</classname>$0

@@ -1,0 +1,4 @@
+#name : modespec
+#key : modespec
+# --
+<modespec application="$1">$2</modespec>$0

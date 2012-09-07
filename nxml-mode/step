@@ -1,0 +1,8 @@
+#name : step
+#key : step
+# --
+<step>
+  <para>
+    $1
+  </para>
+</step>$0

@@ -1,0 +1,6 @@
+#name : book
+#key : book
+# --
+<book id="$1">
+  $2
+</book>$0

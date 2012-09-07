@@ -1,0 +1,4 @@
+#name : prompt
+#key : prompt
+# --
+<prompt>$1</prompt>$0

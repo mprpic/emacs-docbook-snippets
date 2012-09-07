@@ -1,0 +1,6 @@
+#name : stepalternatives
+#key : stepalternatives
+# --
+<stepalternatives>
+  $1
+</stepalternatives>$0

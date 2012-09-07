@@ -1,0 +1,4 @@
+#name : lineannotation
+#key : lineannotation
+# --
+<lineannotation>$1</lineannotation>$0

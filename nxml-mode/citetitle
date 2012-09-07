@@ -1,0 +1,4 @@
+#name : citetitle
+#key : citetitle
+# --
+<citetitle pubwork="${1:book}">$2</citetitle>$0

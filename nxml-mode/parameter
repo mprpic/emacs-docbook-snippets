@@ -1,0 +1,4 @@
+#name : parameter
+#key : param
+# --
+<parameter class="${1:command|function|option}">$2</parameter>$0

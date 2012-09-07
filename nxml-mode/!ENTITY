@@ -1,0 +1,4 @@
+#NAME : !ENTITY
+#key : ent
+# --
+<!ENTITY $1 "$2">$0

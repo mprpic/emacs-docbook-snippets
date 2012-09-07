@@ -1,0 +1,4 @@
+#name : othername
+#key : othername
+# --
+<othername>$1</othername>$0

@@ -1,0 +1,6 @@
+#name : simplesect
+#key : simplesect
+# --
+<simplesect id="$1">
+  $2
+</simplesect>$0

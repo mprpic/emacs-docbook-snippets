@@ -1,0 +1,4 @@
+#name : entry
+#key : entry
+# --
+<entry>$1</entry>$0

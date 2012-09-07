@@ -1,0 +1,4 @@
+#name : videodata
+#key : videodata
+# --
+<videodata fileref="$1" scalefit="${2:0}" />$0

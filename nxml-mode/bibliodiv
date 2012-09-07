@@ -1,0 +1,6 @@
+#name : bibliodiv
+#key : bibliodiv
+# --
+<bibliodiv>
+  $1
+</bibliodiv>$0

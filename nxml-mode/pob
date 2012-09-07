@@ -1,0 +1,4 @@
+#name : pob
+#key : pob
+# --
+<pob>$1</pob>$0

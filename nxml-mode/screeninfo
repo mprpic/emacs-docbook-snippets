@@ -1,0 +1,4 @@
+#name : screeninfo
+#key : screeninfo
+# --
+<screeninfo>$1</screeninfo>$0

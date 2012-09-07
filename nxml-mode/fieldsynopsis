@@ -1,0 +1,6 @@
+#name : fieldsynopsis
+#key : fieldsynopsis
+# --
+<fieldsynopsis language="$1">
+  $2
+</fieldsynopsis>$0

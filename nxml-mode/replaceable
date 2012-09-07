@@ -1,0 +1,4 @@
+#name : replaceable
+#key : repl
+# --
+<replaceable>&lt;$1&gt;</replaceable>$0

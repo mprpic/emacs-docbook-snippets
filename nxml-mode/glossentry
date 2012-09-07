@@ -1,0 +1,6 @@
+#name : glossentry
+#key : glossentry
+# --
+<glossentry>
+  $1
+</glossentry>$0

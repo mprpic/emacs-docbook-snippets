@@ -1,0 +1,6 @@
+#name : setindexinfo
+#key : setindexinfo
+# --
+<setindexinfo>
+  $1
+</setindexinfo>$0

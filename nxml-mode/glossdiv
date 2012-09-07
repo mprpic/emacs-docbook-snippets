@@ -1,0 +1,6 @@
+#name : glossdiv
+#key : glossdiv
+# --
+<glossdiv>
+  $1
+</glossdiv>$0

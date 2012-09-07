@@ -1,0 +1,4 @@
+#name : guimenuitem
+#key : guimenuitem
+# --
+<guimenuitem>$1</guimenuitem>$0

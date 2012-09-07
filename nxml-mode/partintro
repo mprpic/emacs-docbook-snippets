@@ -1,0 +1,6 @@
+#name : partintro
+#key : partintro
+# --
+<partintro>
+  $1
+</partintro>$0

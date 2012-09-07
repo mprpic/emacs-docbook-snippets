@@ -1,0 +1,6 @@
+#name : itemizedlist
+#key : ilist
+# --
+<itemizedlist>
+  $1
+</itemizedlist>$0

@@ -1,0 +1,6 @@
+#name : simplelist
+#key : simplelist
+# --
+<simplelist>
+  $1
+</simplelist>$0

@@ -1,0 +1,6 @@
+#name : refsect2info
+#key : refsect2info
+# --
+<refsect2info>
+  $1
+</refsect2info>$0

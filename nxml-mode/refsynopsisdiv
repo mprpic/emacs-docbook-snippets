@@ -1,0 +1,6 @@
+#name : refsynopsisdiv
+#key : refsynopsisdiv
+# --
+<refsynopsisdiv>
+  $1
+</refsynopsisdiv>$0

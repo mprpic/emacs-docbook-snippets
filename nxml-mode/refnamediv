@@ -1,0 +1,6 @@
+#name : refnamediv
+#key : refnamediv
+# --
+<refnamediv>
+  $1
+</refnamediv>$0

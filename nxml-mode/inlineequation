@@ -1,0 +1,6 @@
+#name : inlineequation
+#key : inlineequation
+# --
+<inlineequation>
+  $1
+</inlineequation>$0

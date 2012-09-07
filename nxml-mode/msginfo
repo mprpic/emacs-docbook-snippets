@@ -1,0 +1,6 @@
+#name : msginfo
+#key : msginfo
+# --
+<msginfo>
+  $1
+</msginfo>$0

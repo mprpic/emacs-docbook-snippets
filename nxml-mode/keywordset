@@ -1,0 +1,6 @@
+#name : keywordset
+#key : keywordset
+# --
+<keywordset>
+  $1
+</keywordset>$0

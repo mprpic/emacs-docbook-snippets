@@ -1,0 +1,4 @@
+#name : personname
+#key : personname
+# --
+<personname>$1</personname>$0

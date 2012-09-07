@@ -1,0 +1,6 @@
+#name : msgentry
+#key : msgentry
+# --
+<msgentry>
+  $1
+</msgentry>$0

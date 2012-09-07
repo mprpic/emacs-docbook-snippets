@@ -1,0 +1,4 @@
+#name : bibliosource
+#key : bibliosource
+# --
+<bibliosource class="${1:isbn}">$2</bibliosource>$0

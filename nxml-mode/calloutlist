@@ -1,0 +1,6 @@
+#name : calloutlist
+#key : calloutlist
+# --
+<calloutlist>
+  $1
+</calloutlist>$0

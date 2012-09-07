@@ -1,0 +1,4 @@
+#name : tertiary
+#key : tertiary
+# --
+<tertiary>$1</tertiary>$0

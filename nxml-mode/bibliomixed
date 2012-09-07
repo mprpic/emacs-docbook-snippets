@@ -1,0 +1,6 @@
+#name : bibliomixed
+#key : bibliomixed
+# --
+<bibliomixed>
+  $1
+</bibliomixed>$0

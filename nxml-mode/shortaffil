@@ -1,0 +1,4 @@
+#name : shortaffil
+#key : shortaffil
+# --
+<shortaffil>$1</shortaffil>$0

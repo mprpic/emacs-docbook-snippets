@@ -1,0 +1,6 @@
+#name : programlistingco
+#key : programlistingco
+# --
+<programlistingco>
+  $1
+</programlistingco>$0

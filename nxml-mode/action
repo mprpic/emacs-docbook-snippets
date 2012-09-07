@@ -1,0 +1,4 @@
+#name : action
+#key : action
+# --
+<action>$1</action>$0

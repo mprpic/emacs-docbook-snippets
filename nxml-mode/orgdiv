@@ -1,0 +1,4 @@
+#name : orgdiv
+#key : orgdiv
+# --
+<orgdiv>$1</orgdiv>$0

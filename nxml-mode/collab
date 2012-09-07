@@ -1,0 +1,6 @@
+#name : collab
+#key : collab
+# --
+<collab>
+  $1
+</collab>$0

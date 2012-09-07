@@ -1,0 +1,4 @@
+#name : titleabbrev
+#key : titleabbrev
+# --
+<titleabbrev>$1</titleabbrev>$0

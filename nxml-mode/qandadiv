@@ -1,0 +1,6 @@
+#name : qandadiv
+#key : qandadiv
+# --
+<qandadiv>
+  $1
+</qandadiv>$0

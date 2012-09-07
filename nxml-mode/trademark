@@ -1,0 +1,4 @@
+#name : trademark
+#key : trademark
+# --
+<trademark class="${1:trade}">$2</trademark>$0

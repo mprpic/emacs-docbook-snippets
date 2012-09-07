@@ -1,0 +1,4 @@
+#name : wordasword
+#key : wordasword
+# --
+<wordasword>$1</wordasword>$0

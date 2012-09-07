@@ -1,0 +1,4 @@
+#name : otheraddr
+#key : otheraddr
+# --
+<otheraddr>$1</otheraddr>$0

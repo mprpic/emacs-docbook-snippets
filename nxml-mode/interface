@@ -1,0 +1,4 @@
+#name : interface
+#key : interface
+# --
+<interface>$1</interface>$0

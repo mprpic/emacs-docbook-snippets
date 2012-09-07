@@ -1,0 +1,26 @@
+#name : table
+#key : table
+# --
+<table>
+  <title>$1</title>
+  <tgroup cols="$2">
+    <thead>
+      <row>
+	<entry>
+	  <para>
+	    $3
+	  </para>
+	</entry>$4
+      </row>
+    </thead>
+    <tbody>
+      <row>
+	<entry>
+	  <para>
+	    $5
+	  </para>
+	</entry>$6
+      </row>
+    </tbody>
+  </tgroup>
+</table>

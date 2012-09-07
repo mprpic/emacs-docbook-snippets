@@ -1,0 +1,4 @@
+#name : co
+#key : co
+# --
+<co label="$1" linkends="$2" />$0

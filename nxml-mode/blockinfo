@@ -1,0 +1,6 @@
+#name : blockinfo
+#key : blockinfo
+# --
+<blockinfo>
+  $1
+</blockinfo>$0

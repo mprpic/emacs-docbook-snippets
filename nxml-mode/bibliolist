@@ -1,0 +1,6 @@
+#name : bibliolist
+#key : bibliolist
+# --
+<bibliolist>
+  $1
+</bibliolist>$0

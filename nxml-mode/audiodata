@@ -1,0 +1,4 @@
+#name : audiodata
+#key : audiodata
+# --
+<audiodata fileref="$1" />$0

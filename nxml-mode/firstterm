@@ -1,0 +1,4 @@
+#name : firstterm
+#key : firstterm
+# --
+<firstterm>$1</firstterm>$0

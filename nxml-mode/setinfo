@@ -1,0 +1,6 @@
+#name : setinfo
+#key : setinfo
+# --
+<setinfo>
+  $1
+</setinfo>$0

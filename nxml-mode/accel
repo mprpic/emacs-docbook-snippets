@@ -1,0 +1,4 @@
+#name : accel
+#key : accel
+# --
+<accel>$1</accel>$0

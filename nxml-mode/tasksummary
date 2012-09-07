@@ -1,0 +1,6 @@
+#name : tasksummary
+#key : tasksummary
+# --
+<tasksummary>
+  $1
+</tasksummary>$0

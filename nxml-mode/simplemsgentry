@@ -1,0 +1,6 @@
+#name : simplemsgentry
+#key : simplemsgentry
+# --
+<simplemsgentry>
+  $1
+</simplemsgentry>$0

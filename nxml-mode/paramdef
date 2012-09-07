@@ -1,0 +1,4 @@
+#name : paramdef
+#key : paramdef
+# --
+<paramdef>$1</paramdef>$0

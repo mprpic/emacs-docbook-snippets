@@ -1,0 +1,6 @@
+#name : mediaobjectco
+#key : mediaobjectco
+# --
+<mediaobjectco>
+  $1
+</mediaobjectco>$0

@@ -1,0 +1,4 @@
+#name : literal
+#key : lit
+# --
+<literal>$1</literal>$0

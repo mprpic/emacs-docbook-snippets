@@ -1,0 +1,4 @@
+#name : sgmltag
+#key : sgmltag
+# --
+<sgmltag>$1</sgmltag>$0

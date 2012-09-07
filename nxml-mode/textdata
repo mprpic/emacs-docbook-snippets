@@ -1,0 +1,4 @@
+#name : textdata
+#key : textdata
+# --
+<textdata fileref="$1" />$0

@@ -1,0 +1,9 @@
+#name : Installing
+#key : install
+# --
+<note>
+  <title>Note: Installing <package>$1</package> package</title>
+  <para>In order to use <application>$2</application>, first ensure the <package>$1</package> package is installed on your system by running, as root:</para>
+  <screen>~]#&#160;<command>yum install $1</command></screen>
+</note>
+$0

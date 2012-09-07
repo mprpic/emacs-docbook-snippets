@@ -1,0 +1,4 @@
+#name : manvolnum
+#key : manvolnum
+# --
+<manvolnum>$1</manvolnum>$0

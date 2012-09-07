@@ -1,0 +1,4 @@
+#name : phrase
+#key : phrase
+# --
+<phrase>$1</phrase>$0

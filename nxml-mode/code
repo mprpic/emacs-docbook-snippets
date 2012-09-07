@@ -1,0 +1,4 @@
+#name : code
+#key : code
+# --
+<code language="$1">$2</code>$0

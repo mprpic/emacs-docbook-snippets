@@ -1,0 +1,6 @@
+#name : thead
+#key : thead
+# --
+<thead>
+  $1
+</thead>$0

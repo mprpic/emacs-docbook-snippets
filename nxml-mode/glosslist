@@ -1,0 +1,6 @@
+#name : glosslist
+#key : glosslist
+# --
+<glosslist>
+  $1
+</glosslist>$0

@@ -1,0 +1,6 @@
+#name : part
+#key : part
+# --
+<part id="$1">
+  $2
+</part>$0

@@ -1,0 +1,4 @@
+#name : attribution
+#key : attribution
+# --
+<attribution>$1</attribution>$0

@@ -1,0 +1,4 @@
+#name : systemitem
+#key : sysitem
+# --
+<systemitem${1: class="${2:class}"}>$3</systemitem>$0

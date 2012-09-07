@@ -1,0 +1,6 @@
+#name : classsynopsis
+#key : classsynopsis
+# --
+<classsynopsis class="$1" language="$2">
+  $3
+</classsynopsis>$0

@@ -1,0 +1,6 @@
+#name : articleinfo
+#key : articleinfo
+# --
+<articleinfo>
+  $1
+</articleinfo>$0

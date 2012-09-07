@@ -1,0 +1,6 @@
+#name : inlinemediaobject
+#key : inlinemediaobject
+# --
+<inlinemediaobject>
+  $1
+</inlinemediaobject>$0

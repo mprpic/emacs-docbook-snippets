@@ -1,0 +1,4 @@
+#name : package
+#key : pkg
+# --
+<package>$1</package>$0

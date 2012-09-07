@@ -1,0 +1,6 @@
+#name : authorblurb
+#key : authorblurb
+# --
+<authorblurb>
+  $1
+</authorblurb>$0

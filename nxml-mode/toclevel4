@@ -1,0 +1,6 @@
+#name : toclevel4
+#key : toclevel4
+# --
+<toclevel4>
+  $1
+</toclevel4>$0

@@ -1,0 +1,6 @@
+#name : bibliography
+#key : bibliography
+# --
+<bibliography>
+  $1
+</bibliography>$0

@@ -1,0 +1,4 @@
+#name : seealso
+#key : seealso
+# --
+<seealso>$1</seealso>$0

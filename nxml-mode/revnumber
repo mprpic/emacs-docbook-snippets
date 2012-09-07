@@ -1,0 +1,4 @@
+#name : revnumber
+#key : revnumber
+# --
+<revnumber>$1</revnumber>$0

@@ -1,0 +1,4 @@
+#name : option
+#key : opt
+# --
+<option>$1</option>$0

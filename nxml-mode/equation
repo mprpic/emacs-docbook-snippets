@@ -1,0 +1,6 @@
+#name : equation
+#key : equation
+# --
+<equation>
+  $1
+</equation>$0

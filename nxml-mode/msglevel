@@ -1,0 +1,4 @@
+#name : msglevel
+#key : msglevel
+# --
+<msglevel>$1</msglevel>$0

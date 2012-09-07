@@ -1,0 +1,6 @@
+#name : refmiscinfo
+#key : refmiscinfo
+# --
+<refmiscinfo>
+  $1
+</refmiscinfo>$0

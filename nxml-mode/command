@@ -1,0 +1,4 @@
+#name : command
+#key : command
+# --
+<command>$1</command>$0

@@ -1,0 +1,4 @@
+#name : bibliorelation
+#key : bibliorelation
+# --
+<bibliorelation type="$1" class="$2">$3</bibliorelation>$0

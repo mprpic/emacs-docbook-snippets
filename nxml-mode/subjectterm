@@ -1,0 +1,4 @@
+#name : subjectterm
+#key : subjectterm
+# --
+<subjectterm>$1</subjectterm>$0

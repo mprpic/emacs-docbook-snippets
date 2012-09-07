@@ -1,0 +1,6 @@
+#name : screenco
+#key : screenco
+# --
+<screenco>
+  $1
+</screenco>$0

@@ -1,0 +1,6 @@
+#name : informalfigure
+#key : informalfigure
+# --
+<informalfigure>
+  $1
+</informalfigure>$0

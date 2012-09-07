@@ -1,0 +1,4 @@
+#name : keycombo
+#key : keycombo
+# --
+<keycombo>$1</keycombo>$0

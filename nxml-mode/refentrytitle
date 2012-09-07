@@ -1,0 +1,4 @@
+#name : refentrytitle
+#key : refentrytitle
+# --
+<refentrytitle>$1</refentrytitle>$0

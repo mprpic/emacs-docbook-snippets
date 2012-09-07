@@ -1,0 +1,6 @@
+#name : funcsynopsisinfo
+#key : funcsynopsisinfo
+# --
+<funcsynopsisinfo>
+  $1
+</funcsynopsisinfo>$0

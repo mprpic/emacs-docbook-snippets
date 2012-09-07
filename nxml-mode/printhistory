@@ -1,0 +1,6 @@
+#name : printhistory
+#key : printhistory
+# --
+<printhistory>
+  $1
+</printhistory>$0

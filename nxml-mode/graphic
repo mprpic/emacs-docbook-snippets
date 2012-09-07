@@ -1,0 +1,4 @@
+#name : graphic
+#key : graphic
+# --
+<graphic fileref="$1" />$0

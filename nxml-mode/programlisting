@@ -1,0 +1,4 @@
+#name : programlisting
+#key : programlisting
+# --
+<programlisting language="$1">$2</programlisting>$0

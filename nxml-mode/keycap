@@ -1,0 +1,4 @@
+#name : keycap
+#key : keycap
+# --
+<keycap>$1</keycap>$0

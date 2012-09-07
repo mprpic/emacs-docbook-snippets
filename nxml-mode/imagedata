@@ -1,0 +1,4 @@
+#name : imagedata
+#key : imagedata
+# --
+<imagedata fileref="$1" format="${2:PNG}" scalefit="${3:0}" />$0

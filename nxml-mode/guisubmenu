@@ -1,0 +1,4 @@
+#name : guisubmenu
+#key : guisubmenu
+# --
+<guisubmenu>$1</guisubmenu>$0

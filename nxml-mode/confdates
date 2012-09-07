@@ -1,0 +1,4 @@
+#name : confdates
+#key : confdates
+# --
+<confdates>$1</confdates>$0

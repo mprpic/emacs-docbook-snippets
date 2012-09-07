@@ -1,0 +1,6 @@
+#name : informalexample
+#key : informalexample
+# --
+<informalexample>
+  $1
+</informalexample>$0

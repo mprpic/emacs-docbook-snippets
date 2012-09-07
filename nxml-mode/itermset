@@ -1,0 +1,6 @@
+#name : itermset
+#key : itermset
+# --
+<itermset>
+  $1
+</itermset>$0

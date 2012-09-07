@@ -1,0 +1,4 @@
+#name : edition
+#key : edition
+# --
+<edition>$1</edition>$0

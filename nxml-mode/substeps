@@ -1,0 +1,6 @@
+#name : substeps
+#key : substeps
+# --
+<substeps>
+  $1
+</substeps>$0

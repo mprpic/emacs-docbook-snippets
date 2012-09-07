@@ -1,0 +1,6 @@
+#name : toc
+#key : toc
+# --
+<toc>
+  $1
+</toc>$0

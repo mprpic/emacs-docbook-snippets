@@ -1,0 +1,6 @@
+#name : informalequation
+#key : informalequation
+# --
+<informalequation>
+  $1
+</informalequation>$0

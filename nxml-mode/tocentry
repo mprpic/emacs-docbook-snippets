@@ -1,0 +1,4 @@
+#name : tocentry
+#key : tocentry
+# --
+<tocentry linkend="$1">$2</tocentry>$0

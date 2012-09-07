@@ -1,0 +1,4 @@
+#name : exceptionname
+#key : exceptionname
+# --
+<exceptionname>$1</exceptionname>$0

@@ -1,0 +1,6 @@
+#name : biblioentry
+#key : biblioentry
+# --
+<biblioentry>
+  $1
+</biblioentry>$0

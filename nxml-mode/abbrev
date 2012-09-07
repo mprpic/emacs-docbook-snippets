@@ -1,0 +1,4 @@
+#name : abbrev
+#key : abbrev
+# --
+<abbrev>$1</abbrev>$0

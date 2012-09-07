@@ -1,0 +1,6 @@
+#name : publisher
+#key : publisher
+# --
+<publisher>
+  $1
+</publisher>$0

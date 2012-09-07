@@ -1,0 +1,6 @@
+#name : dedication
+#key : dedication
+# --
+<dedication>
+  $1
+</dedication>$0

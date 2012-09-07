@@ -1,0 +1,4 @@
+#name : structname
+#key : structname
+# --
+<structname>$1</structname>$0

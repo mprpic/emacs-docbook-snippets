@@ -1,0 +1,6 @@
+#name : segmentedlist
+#key : segmentedlist
+# --
+<segmentedlist>
+  $1
+</segmentedlist>$0

@@ -1,0 +1,6 @@
+#name : para
+#key : pa
+# --
+<para>
+  $1
+</para>$0

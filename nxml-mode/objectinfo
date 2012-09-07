@@ -1,0 +1,6 @@
+#name : objectinfo
+#key : objectinfo
+# --
+<objectinfo>
+  $1
+</objectinfo>$0

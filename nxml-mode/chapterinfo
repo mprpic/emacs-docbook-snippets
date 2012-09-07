@@ -1,0 +1,6 @@
+#name : chapterinfo
+#key : chapterinfo
+# --
+<chapterinfo>
+  $1
+</chapterinfo>$0

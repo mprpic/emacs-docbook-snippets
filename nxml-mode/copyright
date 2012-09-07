@@ -1,0 +1,6 @@
+#name : copyright
+#key : copyright
+# --
+<copyright>
+  $1
+</copyright>$0

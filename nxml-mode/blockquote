@@ -1,0 +1,6 @@
+#name : blockquote
+#key : blockquote
+# --
+<blockquote>
+  $1
+</blockquote>$0

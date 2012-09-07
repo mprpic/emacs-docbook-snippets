@@ -1,0 +1,4 @@
+#name : markup
+#key : markup
+# --
+<markup>$1</markup>$0

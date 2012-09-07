@@ -1,0 +1,4 @@
+#name : inlinegraphic
+#key : inlinegraphic
+# --
+<inlinegraphic fileref="$1" format="${2:PNG}" scalefit="${3:0}" />

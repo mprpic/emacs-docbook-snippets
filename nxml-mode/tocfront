@@ -1,0 +1,4 @@
+#name : tocfront
+#key : tocfront
+# --
+<tocfront linkend="$1">$2</tocfront>$0

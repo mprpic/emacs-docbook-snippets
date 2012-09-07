@@ -1,0 +1,4 @@
+#name : keyword
+#key : keyword
+# --
+<keyword>$1</keyword>$0

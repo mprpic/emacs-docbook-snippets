@@ -1,0 +1,6 @@
+#name : indexterm
+#key : indexterm
+# --
+<indexterm>
+  $1
+</indexterm>$0

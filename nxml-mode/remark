@@ -1,0 +1,4 @@
+#name : remark
+#key : rem
+# --
+<remark>$1</remark>$0

@@ -1,0 +1,6 @@
+#name : tip
+#key : tip
+# --
+<tip>
+  $1
+</tip>$0

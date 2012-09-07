@@ -1,0 +1,6 @@
+#name : callout
+#key : callout
+# --
+<callout arearefs="$1">
+  $2
+</callout>$0

@@ -1,0 +1,6 @@
+#name : textobject
+#key : textobject
+# --
+<textobject>
+  $1
+</textobject>$0

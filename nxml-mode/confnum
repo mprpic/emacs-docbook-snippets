@@ -1,0 +1,4 @@
+#name : confnum
+#key : confnum
+# --
+<confnum>$1</confnum>$0

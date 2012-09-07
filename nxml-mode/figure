@@ -1,0 +1,14 @@
+#name : figure
+#key : figure
+# --
+<figure id="$1">
+  <title>$2</title>
+  <mediaobject>
+    <imageobject>
+      <imagedata fileref="images/$3.png" format="PNG" scalefit="0"/>
+    </imageobject>
+    <textobject>
+      <para>$4</para>
+    </textobject>
+  </mediaobject>
+</figure>$0

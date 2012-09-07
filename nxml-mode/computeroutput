@@ -1,0 +1,4 @@
+#name : computeroutput
+#key : computeroutput
+# --
+<computeroutput>$1</computeroutput>$0

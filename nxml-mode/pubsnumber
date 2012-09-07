@@ -1,0 +1,4 @@
+#name : pubsnumber
+#key : pubsnumber
+# --
+<pubsnumber>$1</pubsnumber>$0

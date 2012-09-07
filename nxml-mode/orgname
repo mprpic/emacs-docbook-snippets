@@ -1,0 +1,4 @@
+#name : orgname
+#key : orgname
+# --
+<orgname>$1</orgname>$0

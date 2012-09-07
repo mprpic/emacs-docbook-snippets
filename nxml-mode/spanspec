@@ -1,0 +1,4 @@
+#name : spanspec
+#key : spanspec
+# --
+<spanspec spanname="$1" namest="$2" nameend="$3" />$0

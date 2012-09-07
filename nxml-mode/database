@@ -1,0 +1,4 @@
+#name : database
+#key : database
+# --
+<database class="$1">$2</database>$0

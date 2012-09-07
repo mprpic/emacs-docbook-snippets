@@ -1,0 +1,6 @@
+#name : cmdsynopsis
+#key : cmdsynopsis
+# --
+<cmdsynopsis>
+  $1
+</cmdsynopsis>$0

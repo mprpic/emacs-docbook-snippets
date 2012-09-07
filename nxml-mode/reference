@@ -1,0 +1,6 @@
+#name : reference
+#key : reference
+# --
+<reference>
+  $1
+</reference>$0

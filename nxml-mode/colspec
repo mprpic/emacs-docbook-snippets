@@ -1,0 +1,4 @@
+#name : colspec
+#key : colspec
+# --
+<colspec colname="$1" colnum="$2" colwidth="$3" />$0

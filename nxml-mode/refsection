@@ -1,0 +1,6 @@
+#name : refsection
+#key : refsection
+# --
+<refsection>
+  $1
+</refsection>$0

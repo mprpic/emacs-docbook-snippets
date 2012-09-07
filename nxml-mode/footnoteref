@@ -1,0 +1,4 @@
+#name : footnoteref
+#key : footnoteref
+# --
+<footnoteref linkend="$1" />$0

@@ -1,0 +1,6 @@
+#name : preface
+#key : preface
+# --
+<preface id="$1">
+  $2
+</preface>$0

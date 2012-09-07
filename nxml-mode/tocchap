@@ -1,0 +1,6 @@
+#name : tocchap
+#key : tocchap
+# --
+<tocchap>
+  $1
+</tocchap>$0

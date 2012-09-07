@@ -1,0 +1,4 @@
+#name : initializer
+#key : initializer
+# --
+<initializer>$1</initializer>$0

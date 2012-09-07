@@ -1,0 +1,4 @@
+#name : literallayout
+#key : literallayout
+# --
+<literallayout>$1</literallayout>$0

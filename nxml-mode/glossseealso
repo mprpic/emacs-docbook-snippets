@@ -1,0 +1,4 @@
+#name : glossseealso
+#key : glossseealso
+# --
+<glossseealso otherterm="$1">$2</glossseealso>$0

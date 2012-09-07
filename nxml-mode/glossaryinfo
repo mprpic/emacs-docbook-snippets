@@ -1,0 +1,6 @@
+#name : glossaryinfo
+#key : glossaryinfo
+# --
+<glossaryinfo>
+  $1
+</glossaryinfo>$0

@@ -1,0 +1,6 @@
+#name : imageobjectco
+#key : imageobjectco
+# --
+<imageobjectco>
+  $1
+</imageobjectco>$0

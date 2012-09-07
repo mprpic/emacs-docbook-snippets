@@ -1,0 +1,7 @@
+#name : example
+#key : example
+# --
+<example id="$1">
+  <title>$2</title>
+  $3
+</example>$0

@@ -1,0 +1,6 @@
+#name : affiliation
+#key : affiliation
+# --
+<affiliation>
+  $1
+</affiliation>$0

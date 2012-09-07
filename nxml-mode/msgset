@@ -1,0 +1,6 @@
+#name : msgset
+#key : msgset
+# --
+<msgset>
+  $1
+</msgset>$0

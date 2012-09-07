@@ -1,0 +1,6 @@
+#name : lotentry
+#key : lotentry
+# --
+<lotentry linkend="$1">
+  $2
+</lotentry>$0

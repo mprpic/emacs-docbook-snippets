@@ -1,0 +1,4 @@
+#name : token
+#key : token
+# --
+<token>$1</token>$0

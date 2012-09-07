@@ -1,0 +1,6 @@
+#name : epigraph
+#key : epigraph
+# --
+<epigraph>
+  $1
+</epigraph>$0

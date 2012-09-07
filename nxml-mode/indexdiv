@@ -1,0 +1,6 @@
+#name : indexdiv
+#key : indexdiv
+# --
+<indexdiv>
+  $1
+</indexdiv>$0

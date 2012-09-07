@@ -1,0 +1,4 @@
+#name : publishername
+#key : publishername
+# --
+<publishername>$1</publishername>$0

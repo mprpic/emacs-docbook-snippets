@@ -1,0 +1,4 @@
+#name : collabname
+#key : collabname
+# --
+<collabname>$1</collabname>$0

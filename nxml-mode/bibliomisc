@@ -1,0 +1,6 @@
+#name : bibliomisc
+#key : bibliomisc
+# --
+<bibliomisc>
+  $1
+</bibliomisc>$0

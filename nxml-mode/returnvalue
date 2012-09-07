@@ -1,0 +1,4 @@
+#name : returnvalue
+#key : returnvalue
+# --
+<returnvalue>$1</returnvalue>$0

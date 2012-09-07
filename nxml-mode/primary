@@ -1,0 +1,4 @@
+#name : primary
+#key : primary
+# --
+<primary>$1</primary>$0

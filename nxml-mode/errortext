@@ -1,0 +1,4 @@
+#name : errortext
+#key : errortext
+# --
+<errortext>$1</errortext>$0

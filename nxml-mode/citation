@@ -1,0 +1,4 @@
+#name : citation
+#key : citation
+# --
+<citation>$1</citation>$0

@@ -1,0 +1,4 @@
+#name : honorific
+#key : honorific
+# --
+<honorific>$1</honorific>$0

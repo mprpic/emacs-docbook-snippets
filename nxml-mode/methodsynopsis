@@ -1,0 +1,6 @@
+#name : methodsynopsis
+#key : methodsynopsis
+# --
+<methodsynopsis language="$1">
+  $2
+</methodsynopsis>$0

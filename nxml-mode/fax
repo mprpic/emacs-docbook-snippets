@@ -1,0 +1,4 @@
+#name : fax
+#key : fax
+# --
+<fax>$1</fax>$0

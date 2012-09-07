@@ -1,0 +1,6 @@
+#name : classsynopsisinfo
+#key : classsynopsisinfo
+# --
+<classsynopsisinfo>
+  $1
+</classsynopsisinfo>$0

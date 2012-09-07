@@ -1,0 +1,6 @@
+#name : appendix
+#key : appendix
+# --
+<appendix id="$1">
+  $2
+</appendix>$0

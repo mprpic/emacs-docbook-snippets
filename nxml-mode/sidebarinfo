@@ -1,0 +1,6 @@
+#name : sidebarinfo
+#key : sidebarinfo
+# --
+<sidebarinfo>
+  $1
+</sidebarinfo>$0

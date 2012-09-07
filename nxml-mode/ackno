@@ -1,0 +1,6 @@
+#name : ackno
+#key : ackno
+# --
+<ackno>
+  $1
+</ackno>$0

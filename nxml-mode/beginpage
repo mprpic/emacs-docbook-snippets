@@ -1,0 +1,4 @@
+#name : beginpage
+#key : beginpage
+# --
+<beginpage pagenum="$1" />$0

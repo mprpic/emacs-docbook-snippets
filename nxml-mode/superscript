@@ -1,0 +1,4 @@
+#name : superscript
+#key : superscript
+# --
+<superscript>$1</superscript>$0

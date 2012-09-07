@@ -1,0 +1,6 @@
+#name : caption
+#key : caption
+# --
+<caption>
+  $1
+</caption>$0

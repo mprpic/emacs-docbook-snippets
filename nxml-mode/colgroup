@@ -1,0 +1,6 @@
+#name : colgroup
+#key : colgroup
+# --
+<colgroup>
+  $1
+</colgroup>$0

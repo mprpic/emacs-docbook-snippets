@@ -1,0 +1,4 @@
+#name : citerefentry
+#key : citerefentry
+# --
+<citerefentry>$1</citerefentry>$0

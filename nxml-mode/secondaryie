@@ -1,0 +1,4 @@
+#name : secondaryie
+#key : secondaryie
+# --
+<secondaryie>$1</secondaryie>$0

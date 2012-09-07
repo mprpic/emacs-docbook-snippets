@@ -1,0 +1,7 @@
+#name : procedure
+#key : procedure
+# --
+<procedure id="$1">
+  <title>$2</title>
+  $3
+</procedure>$0

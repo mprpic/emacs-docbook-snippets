@@ -1,0 +1,4 @@
+#name : hardware
+#key : hardware
+# --
+<hardware>$1</hardware>$0

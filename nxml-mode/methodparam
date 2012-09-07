@@ -1,0 +1,4 @@
+#name : methodparam
+#key : methodparam
+# --
+<methodparam>$1</methodparam>$0

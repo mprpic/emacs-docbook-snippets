@@ -1,0 +1,6 @@
+#name : funcprototype
+#key : funcprototype
+# --
+<funcprototype>
+  $1
+</funcprototype>$0

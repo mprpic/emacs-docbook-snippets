@@ -1,0 +1,4 @@
+#name : funcdef
+#key : funcdef
+# --
+<funcdef>$1</funcdef>$0

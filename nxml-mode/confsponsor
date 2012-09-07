@@ -1,0 +1,4 @@
+#name : confsponsor
+#key : confsponsor
+# --
+<confsponsor>$1</confsponsor>$0

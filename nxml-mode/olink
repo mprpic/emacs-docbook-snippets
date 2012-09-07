@@ -1,0 +1,4 @@
+#name : olink
+#key : olink
+# --
+<olink targetdocent="$1">$2</olink>$0

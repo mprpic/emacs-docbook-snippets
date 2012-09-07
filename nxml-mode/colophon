@@ -1,0 +1,6 @@
+#name : colophon
+#key : colophon
+# --
+<colophon>
+  $1
+</colophon>$0

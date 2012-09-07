@@ -1,0 +1,4 @@
+#name : postcode
+#key : postcode
+# --
+<postcode>$1</postcode>$0

@@ -1,0 +1,4 @@
+#name : refclass
+#key : refclass
+# --
+<refclass>$1</refclass>$0

@@ -1,0 +1,6 @@
+#name : sect1
+#key : sect1
+# --
+<sect1 id="$1">
+  $2
+</sect1>$0

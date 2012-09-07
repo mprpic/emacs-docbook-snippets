@@ -1,0 +1,6 @@
+#name : listitem
+#key : litem
+# --
+<listitem>
+  $1
+</listitem>$0

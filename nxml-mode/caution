@@ -1,0 +1,6 @@
+#name : caution
+#key : caution
+# --
+<caution>
+  $1
+</caution>$0

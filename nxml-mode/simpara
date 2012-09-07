@@ -1,0 +1,6 @@
+#name : simpara
+#key : simpara
+# --
+<simpara>
+  $1
+</simpara>$0

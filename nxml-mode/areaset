@@ -1,0 +1,6 @@
+#name : areaset
+#key : areaset
+# --
+<areaset id="$1" coords="$2">
+  $3
+</areaset>$0

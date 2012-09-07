@@ -1,0 +1,4 @@
+#name : releaseinfo
+#key : releaseinfo
+# --
+<releaseinfo>$1</releaseinfo>$0

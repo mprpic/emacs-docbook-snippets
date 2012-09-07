@@ -1,0 +1,4 @@
+#name : guilabel
+#key : guilabel
+# --
+<guilabel>$1</guilabel>$0

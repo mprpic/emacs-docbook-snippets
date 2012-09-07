@@ -1,0 +1,4 @@
+#name : segtitle
+#key : segtitle
+# --
+<segtitle>$1</segtitle>$0

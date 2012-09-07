@@ -1,0 +1,6 @@
+#name : legalnotice
+#key : legalnotice
+# --
+<legalnotice>
+  $1
+</legalnotice>$0

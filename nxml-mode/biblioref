@@ -1,0 +1,4 @@
+#name : biblioref
+#key : biblioref
+# --
+<biblioref linkend="$1" />$0

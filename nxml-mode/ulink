@@ -1,0 +1,4 @@
+#name : ulink
+#key : ulink
+# --
+<ulink url="$1">$2</ulink>$0

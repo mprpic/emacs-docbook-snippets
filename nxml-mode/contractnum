@@ -1,0 +1,4 @@
+#name : contractnum
+#key : contractnum
+# --
+<contractnum>$1</contractnum>$0

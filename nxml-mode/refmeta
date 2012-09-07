@@ -1,0 +1,6 @@
+#name : refmeta
+#key : refmeta
+# --
+<refmeta>
+  $1
+</refmeta>$0

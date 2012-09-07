@@ -1,0 +1,6 @@
+#name : authorgroup
+#key : authorgroup
+# --
+<authorgroup>
+  $1
+</authorgroup>$0

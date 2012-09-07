@@ -1,0 +1,4 @@
+#name : screen
+#key : scr
+# --
+<screen>$1</screen>$0

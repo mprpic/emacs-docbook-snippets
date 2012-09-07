@@ -1,0 +1,8 @@
+#name : note
+#key : note
+# --
+<note>
+  <para>
+    $1
+  </para>
+</note>$0

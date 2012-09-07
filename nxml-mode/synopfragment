@@ -1,0 +1,6 @@
+#name : synopfragment
+#key : synopfragment
+# --
+<synopfragment id="$1">
+  $2
+</synopfragment>$0

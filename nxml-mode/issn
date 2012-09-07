@@ -1,0 +1,4 @@
+#name : issn
+#key : issn
+# --
+<issn>$1</issn>$0

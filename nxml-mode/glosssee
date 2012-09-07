@@ -1,0 +1,4 @@
+#name : glosssee
+#key : glosssee
+# --
+<glosssee otherterm="$1">$2</glosssee>$0

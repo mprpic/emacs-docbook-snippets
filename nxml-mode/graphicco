@@ -1,0 +1,6 @@
+#name : graphicco
+#key : graphicco
+# --
+<graphicco>
+  $1
+</graphicco>$0

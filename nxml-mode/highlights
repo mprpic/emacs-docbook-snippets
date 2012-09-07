@@ -1,0 +1,6 @@
+#name : highlights
+#key : highlights
+# --
+<highlights>
+  $1
+</highlights>$0

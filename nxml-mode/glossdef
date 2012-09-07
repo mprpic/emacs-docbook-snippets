@@ -1,0 +1,6 @@
+#name : glossdef
+#key : glossdef
+# --
+<glossdef>
+  $1
+</glossdef>$0

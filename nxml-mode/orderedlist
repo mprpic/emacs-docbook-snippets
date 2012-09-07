@@ -1,0 +1,6 @@
+#name : orderedlist
+#key : olist
+# --
+<orderedlist>
+  $1
+</orderedlist>$0

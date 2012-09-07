@@ -1,0 +1,4 @@
+#name : bridgehead
+#key : bh
+# --
+<bridgehead id="$1"${2: renderas="${3:sect<number>}"}>$4</bridgehead>$0

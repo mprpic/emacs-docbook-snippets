@@ -1,0 +1,6 @@
+#name : informaltable
+#key : informaltable
+# --
+<informaltable>
+  $1
+</informaltable>$0

@@ -1,0 +1,6 @@
+#name : col
+#key : col
+# --
+<col>
+  $1
+</col>$0

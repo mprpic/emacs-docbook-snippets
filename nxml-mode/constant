@@ -1,0 +1,4 @@
+#name : constant
+#key : constant
+# --
+<constant>$1</constant>$0

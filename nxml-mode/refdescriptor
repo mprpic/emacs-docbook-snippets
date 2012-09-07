@@ -1,0 +1,4 @@
+#name : refdescriptor
+#key : refdescriptor
+# --
+<refdescriptor>$1</refdescriptor>$0

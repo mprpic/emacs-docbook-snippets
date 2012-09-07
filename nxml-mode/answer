@@ -1,0 +1,6 @@
+#name : answer
+#key : answer
+# --
+<answer>
+  $1
+</answer>$0

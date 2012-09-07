@@ -1,0 +1,4 @@
+#name : guiicon
+#key : guiicon
+# --
+<guiicon>$1</guiicon>$0

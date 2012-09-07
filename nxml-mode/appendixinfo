@@ -1,0 +1,6 @@
+#name : appendixinfo
+#key : appendixinfo
+# --
+<appendixinfo>
+  $1
+</appendixinfo>$0

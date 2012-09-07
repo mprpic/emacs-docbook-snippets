@@ -1,0 +1,6 @@
+#name : subjectset
+#key : subjectset
+# --
+<subjectset>
+  $1
+</subjectset>$0

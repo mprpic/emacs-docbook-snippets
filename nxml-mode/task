@@ -1,0 +1,6 @@
+#name : task
+#key : task
+# --
+<task>
+  $1
+</task>$0

@@ -1,0 +1,4 @@
+#name : glossterm
+#key : glossterm
+# --
+<glossterm>$1</glossterm>$0

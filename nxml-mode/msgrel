@@ -1,0 +1,6 @@
+#name : msgrel
+#key : msgrel
+# --
+<msgrel>
+  $1
+</msgrel>$0

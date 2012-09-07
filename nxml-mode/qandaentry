@@ -1,0 +1,6 @@
+#name : qandaentry
+#key : qandaentry
+# --
+<qandaentry>
+  $1
+</qandaentry>$0

@@ -1,0 +1,4 @@
+#name : holder
+#key : holder
+# --
+<holder>$1</holder>$0

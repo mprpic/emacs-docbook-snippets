@@ -1,0 +1,6 @@
+#name : bibliomset
+#key : bibliomset
+# --
+<bibliomset relation="$1">
+  $2
+</bibliomset>$0

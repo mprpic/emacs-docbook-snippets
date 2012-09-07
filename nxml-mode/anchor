@@ -1,0 +1,4 @@
+#name : anchor
+#key : anchor
+# --
+<anchor id="$1" />$0

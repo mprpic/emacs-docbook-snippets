@@ -1,0 +1,4 @@
+#name : conftitle
+#key : conftitle
+# --
+<conftitle>$1</conftitle>$0

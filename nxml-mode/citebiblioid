@@ -1,0 +1,4 @@
+#name : citebiblioid
+#key : citebiblioid
+# --
+<citebiblioid class="${1:isbn}">$2</citebiblioid>$0

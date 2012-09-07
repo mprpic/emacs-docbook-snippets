@@ -1,0 +1,6 @@
+#name : tgroup
+#key : tgroup
+# --
+<tgroup cols="$1">
+  $2
+</tgroup>$0

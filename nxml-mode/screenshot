@@ -1,0 +1,6 @@
+#name : screenshot
+#key : screenshot
+# --
+<screenshot>
+  $1
+</screenshot>$0

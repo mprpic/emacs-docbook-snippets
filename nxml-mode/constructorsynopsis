@@ -1,0 +1,6 @@
+#name : constructorsynopsis
+#key : constructorsynopsis
+# --
+<constructorsynopsis language="$1">
+  $2
+</constructorsynopsis>$0

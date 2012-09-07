@@ -1,0 +1,4 @@
+#name : xi:include
+#key : xi:include
+# --
+<xi:include href="$1.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />$0

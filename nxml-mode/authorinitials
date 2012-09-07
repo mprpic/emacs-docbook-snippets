@@ -1,0 +1,4 @@
+#name : authorinitials
+#key : authorinitials
+# --
+<authorinitials>$1</authorinitials>$0

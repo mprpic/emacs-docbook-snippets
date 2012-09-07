@@ -1,0 +1,4 @@
+#name : mousebutton
+#key : mousebutton
+# --
+<mousebutton>$1</mousebutton>$0

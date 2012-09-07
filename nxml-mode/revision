@@ -1,0 +1,6 @@
+#name : revision
+#key : revision
+# --
+<revision>
+  $1
+</revision>$0

@@ -1,0 +1,4 @@
+#name : seriesvolnums
+#key : seriesvolnums
+# --
+<seriesvolnums>$1</seriesvolnums>$0

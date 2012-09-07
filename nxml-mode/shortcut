@@ -1,0 +1,4 @@
+#name : shortcut
+#key : shortcut
+# --
+<shortcut>$1</shortcut>$0

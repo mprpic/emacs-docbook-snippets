@@ -1,0 +1,6 @@
+#name : othercredit
+#key : othercredit
+# --
+<othercredit>
+  $1
+</othercredit>$0

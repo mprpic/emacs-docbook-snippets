@@ -1,0 +1,4 @@
+#name : symbol
+#key : symbol
+# --
+<symbol>$1</symbol>$0

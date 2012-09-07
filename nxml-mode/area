@@ -1,0 +1,4 @@
+#name : area
+#key : area
+# --
+<area id="$1" coords="$2" />$0

@@ -1,0 +1,4 @@
+#name : corpname
+#key : corpname
+# --
+<corpname>$1</corpname>$0

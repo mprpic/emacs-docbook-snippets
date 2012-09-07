@@ -1,0 +1,6 @@
+#name : editor
+#key : editor
+# --
+<editor>
+  $1
+</editor>$0

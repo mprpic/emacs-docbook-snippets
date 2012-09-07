@@ -1,0 +1,6 @@
+#name : audioobject
+#key : audioobject
+# --
+<audioobject>
+  $1
+</audioobject>$0

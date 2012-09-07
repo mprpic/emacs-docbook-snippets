@@ -1,0 +1,6 @@
+#name : abstract
+#key : abstract
+# --
+<abstract>
+  $1
+</abstract>$0

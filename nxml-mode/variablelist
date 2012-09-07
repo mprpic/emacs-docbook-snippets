@@ -1,0 +1,13 @@
+#name : variablelist
+#key : varlist
+# --
+<variablelist>
+  <varlistentry>
+    <term>$1</term>
+    <listitem>
+      <para>
+        $2
+      </para>
+    </listitem>
+  </varlistentry>$3
+</variablelist>

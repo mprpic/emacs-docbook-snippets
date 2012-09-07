@@ -1,0 +1,4 @@
+#name : invpartnumber
+#key : invpartnumber
+# --
+<invpartnumber>$1</invpartnumber>$0

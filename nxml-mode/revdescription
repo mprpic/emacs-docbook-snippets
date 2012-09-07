@@ -1,0 +1,6 @@
+#name : revdescription
+#key : revdescription
+# --
+<revdescription>
+  $1
+</revdescription>$0

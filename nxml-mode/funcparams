@@ -1,0 +1,4 @@
+#name : funcparams
+#key : funcparams
+# --
+<funcparams>$1</funcparams>$0

@@ -1,0 +1,6 @@
+#name : areaspec
+#key : areaspec
+# --
+<areaspec units="$1">
+  $2
+</areaspec>$0

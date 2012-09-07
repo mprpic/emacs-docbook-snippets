@@ -1,0 +1,6 @@
+#name : confgroup
+#key : confgroup
+# --
+<confgroup>
+  $1
+</confgroup>$0

@@ -1,0 +1,4 @@
+#name : synopsis
+#key : synopsis
+# --
+<synopsis>$1</synopsis>$0

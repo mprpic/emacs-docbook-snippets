@@ -1,0 +1,4 @@
+#name : keycode
+#key : keycode
+# --
+<keycode>$1</keycode>$0

@@ -1,0 +1,9 @@
+#name : formalpara
+#key : fp
+# --
+<formalpara>
+  <title>$1</title>
+  <para>
+    $2
+  </para>
+</formalpara>$0

@@ -1,0 +1,4 @@
+#name : foreignphrase
+#key : foreignphrase
+# --
+<foreignphrase>$1</foreignphrase>$0

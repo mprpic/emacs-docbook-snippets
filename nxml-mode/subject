@@ -1,0 +1,6 @@
+#name : subject
+#key : subject
+# --
+<subject>
+  $1
+</subject>$0

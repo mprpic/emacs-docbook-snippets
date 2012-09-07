@@ -1,0 +1,4 @@
+#name : coref
+#key : coref
+# --
+<coref label="$1" linkend="$1" />$0

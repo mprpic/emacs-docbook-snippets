@@ -1,0 +1,4 @@
+#name : arg
+#key : arg
+# --
+<arg>$1</arg>$0

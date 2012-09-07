@@ -1,0 +1,6 @@
+#name : revhistory
+#key : revhistory
+# --
+<revhistory>
+  $1
+</revhistory>$0

@@ -1,0 +1,6 @@
+#name : destructorsynopsis
+#key : destructorsynopsis
+# --
+<destructorsynopsis language="$1">
+  $2
+</destructorsynopsis>$0

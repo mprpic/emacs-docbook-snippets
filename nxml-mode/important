@@ -1,0 +1,8 @@
+#name : important
+#key : important
+# --
+<important>
+  <para>
+    $1
+  </para>
+</important>$0

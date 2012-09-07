@@ -1,0 +1,11 @@
+#name : varlistentry
+#key : ventry
+# --
+<varlistentry>
+  <term>$1</term>
+  <listitem>
+    <para>
+      $2
+    </para>
+  </listitem>
+</varlistentry>$3

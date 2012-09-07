@@ -1,0 +1,6 @@
+#name : indexentry
+#key : indexentry
+# --
+<indexentry>
+  $1
+</indexentry>$0

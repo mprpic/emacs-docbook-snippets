@@ -1,0 +1,4 @@
+#name : artpagenums
+#key : artpagenums
+# --
+<artpagenums>$1</artpagenums>$0

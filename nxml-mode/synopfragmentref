@@ -1,0 +1,6 @@
+#name : synopfragmentref
+#key : synopfragmentref
+# --
+<synopfragmentref linkend="$1">
+  $2
+</synopfragmentref>$0
