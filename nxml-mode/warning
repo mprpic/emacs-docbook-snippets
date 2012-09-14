@@ -2,5 +2,7 @@
 #key : warning
 # --
 <warning>
-  $1
+  <para>
+    $1
+  </para>
 </warning>$0

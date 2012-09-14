@@ -1,0 +1,6 @@
+#name : cdata
+#key : cdata
+# --
+<![CDATA[
+$1
+]]>$0
