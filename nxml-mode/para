@@ -2,5 +2,5 @@
 #key : pa
 # --
 <para>
-  $1
-</para>$0
+  $0
+</para>
