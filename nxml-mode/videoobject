@@ -1,0 +1,6 @@
+#name : videoobject
+#key : videoobject
+# --
+<videoobject>
+  $1
+</videoobject>$0

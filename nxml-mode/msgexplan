@@ -1,0 +1,6 @@
+#name : msgexplan
+#key : msgexplan
+# --
+<msgexplan>
+  $1
+</msgexplan>$0
