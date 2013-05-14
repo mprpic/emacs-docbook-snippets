@@ -1,4 +1,4 @@
 #name : emphasis
 #key : emp
 # --
-<emphasis${1: role="${2:bold|strong}"}>$1</emphasis>$0
+<emphasis${1: role="${2:bold|strong}"}>$3</emphasis>$0

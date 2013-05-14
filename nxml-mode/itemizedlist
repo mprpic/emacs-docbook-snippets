@@ -2,5 +2,5 @@
 #key : ilist
 # --
 <itemizedlist>
-  $1
-</itemizedlist>$0
+  $0
+</itemizedlist>
